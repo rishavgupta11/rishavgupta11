@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/d854c72f-c068-4e17-b629-54e2340134fd)
-# Hi 👋🏻, I'm Rishabh
+# Hi 👋🏻, I'm Rishav
 
 Hi everyone, I'm a final-year B.Tech student at Guru Nanak Dev Engineering College, Ludhiana. <br>I'm passionate about software development and have gained proficiency in Java, JDBC, JSP/Servlet, Hibernate, and SQL. <br>I am excited to start my career as an entry-level software engineer, eager to contribute my skills to innovative projects and continue learning in a dynamic tech environment.
 

@@ -23,7 +23,7 @@ I'm a Electronics & Communication Engineering graduate 🎓 from GNDEC Ludhiana 
 - 🔭 I’m currently working on Java and spring boot & developing APIs.
 - 🌱 I’m currently learning backend development & DSA 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Java.
-- 📫 How to reach me: rishav.mh103@gmail.com | [LinkedIn((https://https://www.linkedin.com/in/rishavv1/))].
+- 📫 How to reach me: rishav.mh103@gmail.com | [LinkedIn((//https://www.linkedin.com/in/rishavv1/))].
 - 💻 I have worked on Java, React, HTML/CSS, Javascript, Spring Boot, Maven, Git etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: I don't fight over tabs v/s spaces.

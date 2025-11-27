@@ -110,16 +110,6 @@
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building a Scalable URL Shortener with Spring Boot](YOUR_BLOG_LINK)
-- [JWT Authentication in Spring Boot: A Complete Guide](YOUR_BLOG_LINK)
-- [Optimizing MySQL Queries: Lessons from Production](YOUR_BLOG_LINK)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">

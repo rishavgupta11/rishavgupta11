@@ -57,7 +57,7 @@
 
 ## 💼 Featured Projects
 
-### 🔗 [SmartLink - URL Shortener](https://github.com/rishavgupta11/smartlink)
+### 🔗 [SnipLytix - URL Shortener](https://github.com/rishavgupta11/SnipLytix)
 > Scalable URL shortening service handling 10K+ concurrent requests with 99.99% uptime
 
 **Tech Stack:** Spring Boot • PostgreSQL • JWT • Docker • REST APIs
@@ -102,11 +102,11 @@
 
 ## 🏆 Achievements
 
-- 🎓 Completed Software Developer Internship at TechEazy Consulting
+- 🎓 Completed Software Developer Internship at TechEazy Consulting Startup
 - 🚀 Built production-grade applications handling thousands of daily users
 - ⚡ Optimized SQL queries improving performance by 40%
 - 🔧 Reduced deployment time by 70% through Docker containerization
-- 📈 Integrated multiple third-party APIs (Google Geocoding, Gemini AI, Stripe)
+- 📈 Integrated multiple third-party APIs (Google Geocoding, Gemini AI, GPT-4, HuggingFace, Stripe)
 
 ---
 

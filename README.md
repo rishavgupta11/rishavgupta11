@@ -57,18 +57,15 @@
 
 ## 💼 Featured Projects
 
-### 🔗 [SnipLytix - URL Shortener](https://github.com/rishavgupta11/SnipLytix)
+### 🔗 [SnipLytix - URL Shortener](https://github.com/rishavgupta11/snipLytix)
 > Scalable URL shortening service handling 10K+ concurrent requests with 99.99% uptime
 
-**Tech Stack:** Spring Boot • PostgreSQL • JWT • Docker • REST APIs
+**Tech Stack:** Spring Boot • PostgreSQL • JWT • REST APIs
 
 **Key Features:**
 - ⚡ High-performance URL shortening with custom aliases
 - 📊 Real-time click tracking and analytics dashboard
 - 🔐 JWT authentication with rate limiting (100 req/min)
-- 🐳 Dockerized deployment with CI/CD pipeline
-
-**Impact:** Reduced deployment time by 70% through containerization
 
 ---
 

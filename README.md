@@ -48,7 +48,6 @@
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -84,25 +83,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishavgupta11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavgupta11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavgupta11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 Achievements
 
 - 🎓 Completed Software Developer Internship at TechEazy Consulting Startup
 - 🚀 Built production-grade applications handling thousands of daily users
 - ⚡ Optimized SQL queries improving performance by 40%
-- 🔧 Reduced deployment time by 70% through Docker containerization
 - 📈 Integrated multiple third-party APIs (Google Geocoding, Gemini AI, GPT-4, HuggingFace, Stripe)
 
 ---
